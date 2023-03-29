@@ -45,10 +45,12 @@ justify-content:space-between;
 
 .top button{
 
-    font-size: 15px;
-    font-weight: 200;
-    
-background-color: brown;
+      font-size: 15px;
+      font-weight: 200;
+     background-color: brown;
+     padding: 6px 20px 6px 20px;
+      color: white;
+      border-color: brown
 }
 
 .middle{
@@ -67,11 +69,12 @@ background-color: brown;
     
 }
 .middle button {
-
-  margin-left: 20%;
+   margin-left: 20%;
   background-color: brown;
   font-size: 15px;
-
+  padding: 10px 20px 10px 20px;
+  color: white;
+  border-color: brown;
 }
 
  .footer{
